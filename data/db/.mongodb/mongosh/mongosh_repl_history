@@ -1,0 +1,84 @@
+show users
+use client
+show users
+show databases
+db.createCollection('clients')
+use client
+show databases
+db.createCollection('clients')
+use client
+show collections
+show databases
+docker logs MY_MONGODB
+show databases
+show users
+show roles
+show users
+use client
+user client
+show databases
+show users
+show profile
+show roles
+show profile
+help
+mongosh
+show profile
+help
+show users
+use client
+show users
+show log
+help
+show users
+cls
+help
+show users
+cls
+show roles
+show users
+help
+show databases
+cls
+clear
+CLEAR
+cleaR
+get.users
+get.user
+get.user()
+cls
+clear
+use client
+show databases
+show database
+cls
+cler
+   }
+     roles: [ "readWrite", "dbAdmin" ]
+     pwd: passwordPrompt(),  // Or  "<cleartext password>"
+     user: "accountUser",
+   {
+use client
+show databases
+mongosh
+db.getUsers();
+db.getUser()
+show databases
+cls
+clear
+ls
+use mymongodb
+cls
+clear
+show databases
+help
+show databases
+help
+show
+mongo
+help
+ls
+db.createuser
+mongo -u admin -p admin
+use client
+mongo -u admin -p admin
