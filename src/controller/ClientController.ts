@@ -43,7 +43,7 @@ const register = async (req: Request, res: Response) => {
             fileToGenerativePart(targetPath, "image/jpg")
         ];
 
-        const { API_KEY } = process.env as { [key: string]: string };
+        const { GEMINI_API_KEY } = process.env as { [key: string]: string };
         const genAI = new GoogleGenerativeAI(API_KEY);
         const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
         const prompt = "return for me just the numbers in the meter";
